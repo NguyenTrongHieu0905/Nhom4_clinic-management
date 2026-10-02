@@ -1,0 +1,9 @@
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+  <stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="D:\HK2_Nam4\Lập trình phân tán với công nghệ Java\BaiTapLon\clinic-management" />
+  <stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-cp &quot;dist/clinic-desktop-v2.jar;lib/*&quot; vn.edu.clinic.server.ClinicServer" />
+  <stringAttribute key="org.eclipse.debug.core.ATTR_CONSOLE_ENCODING" value="UTF-8" />
+  <stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="C:/Program Files/Java/jdk-21/bin/java.exe" />
+  <booleanAttribute key="org.eclipse.ui.externaltools.ATTR_SHOW_CONSOLE" value="true" />
+  <booleanAttribute key="org.eclipse.debug.core.ATTR_CAPTURE_OUTPUT" value="true" />
+  <booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="true" />
+</launchConfiguration>
